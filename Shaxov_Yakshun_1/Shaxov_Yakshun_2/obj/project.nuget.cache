@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xuF73v5ddzI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student28\\Desktop\\Шахов_Якшин ИС-23К\\Shaxov_Yakshun_2\\Shaxov_Yakshun_2\\Shaxov_Yakshun_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student28\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
